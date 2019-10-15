@@ -1,1 +1,1 @@
-# johndoe
+A digital forensics report done as pair work. We were given a physical hard drive which we had to inspect and create a report for. The subject was suspected to have illegal material (anything bird related) on the hard drive.
